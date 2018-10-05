@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/nicolasapb/curso-node-api-alura/issues"
   },
-  "homepage": "https://github.com/nicolasapb/curso-node-api-alura#readme"
+  "homepage": "https://github.com/nicolasapb/curso-node-api-alura#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
